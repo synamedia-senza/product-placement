@@ -1,0 +1,17 @@
+{
+  "name": "handbag",
+  "version": "1.0.0",
+  "description": "handbag packages",
+  "main": "handbag.js",
+  "scripts": {
+    "start": "node handbag.js"
+  },
+  "dependencies": {
+    "errorhandler": "^1.3.5",
+    "express": "^4.10.4",
+    "openai": "^4.47.1",
+    "request": "^2.64.0",
+  },
+  "author": "Andrew Zamler-Carhart",
+  "license": "ISC"
+}

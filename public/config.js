@@ -1,0 +1,1 @@
+const IPDATA_API_KEY = "5c7348752c2bac058c6d1e3b8169858312fd9510aaabea12c30e0eff";
